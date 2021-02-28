@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Gestor Dev
+
+Proyecto de Prueba, que contiene React y AWS Amplify. Con GraphQL (AWS Appsync), DynamoDB y Lambdas. 
+Eso si, CSS nada que ver. Quien quiera hacer sus PR haciendo mejor el frontend, es bienvenido. 
+
+Este es el primer codigo de prueba para un proyecto personal de aprendizaje. Se vienen mas proyectos! 
+
 ## Available Scripts
 
 In the project directory, you can run:
